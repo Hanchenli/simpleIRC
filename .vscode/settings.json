@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "features.h": "c",
+        "types.h": "c",
+        "socket.h": "c",
+        "in.h": "c",
+        "inet.h": "c",
+        "netdb.h": "c",
+        "sds.h": "c",
+        "system_error": "c",
+        "log.h": "c",
+        "reply.h": "c",
+        "condition_variable": "c",
+        "pthread.h": "c",
+        "message.h": "c",
+        "parse.h": "c"
+    }
+}
